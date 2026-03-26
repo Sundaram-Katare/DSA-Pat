@@ -13,7 +13,6 @@ public class NumberOfProvinces {
                 dfs(isConnected, vis, i);
             }
         }
-
         return provinceCount;
     }
 
