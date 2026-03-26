@@ -5,28 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa2eee70-e976-4770-9082-80c6d308169d" name="Changes" comment="New commit">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxConsecutiveOnesII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CyclicSort/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/CycleDetectionInUndirectedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/FloodFillAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/RottenOranges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrefixSum/MeetingRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrefixSum/MinPositiveValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrefixSum/MinSizeSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrefixSum/NumMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrefixSum/PivotIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingleLinkedList/DeleteNth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SlidingWindow/A_ContainsDuplicateII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SlidingWindow/DefuseBomb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SlidingWindow/DietPlan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SlidingWindow/HarmoniousSubsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SlidingWindow/MaxAveragewSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SlidingWindow/MaxSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SlidingWindow/MinSizeSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SlidingWindow/SmallestWindowContainingO12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SlidingWindow/SumOfAllSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrefixSum/LC209/MinSizeSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrefixSum/LC209/lc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrefixSum/LC209/lc.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphs/NumberOfProvinces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphs/NumberOfProvinces.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,118 +46,118 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.A_ContainsDuplicateII.executor": "Run",
-    "Application.AllPaths.executor": "Run",
-    "Application.AllSubsequences.executor": "Run",
-    "Application.AlternatePosNeg.executor": "Run",
-    "Application.Anagram.executor": "Run",
-    "Application.AssignCookies.executor": "Run",
-    "Application.AsteroidCollision.executor": "Run",
-    "Application.BasicOps.executor": "Run",
-    "Application.BeautySum.executor": "Run",
-    "Application.Boats.executor": "Run",
-    "Application.CheckKSorted.executor": "Run",
-    "Application.CheckSubsequence.executor": "Run",
-    "Application.CombinationSum.executor": "Run",
-    "Application.ContainerWithMostWater.executor": "Run",
-    "Application.CountAllSubsequencesWithSumK.executor": "Run",
-    "Application.CountPrime.executor": "Run",
-    "Application.CountSubstringWithKDistinct.executor": "Run",
-    "Application.CountTrailingZerosInFact.executor": "Run",
-    "Application.CycleDetectionInUndirectedGraph.executor": "Run",
-    "Application.DefuseBomb.executor": "Run",
-    "Application.DegreeOfArray.executor": "Run",
-    "Application.DeleteInDLL.executor": "Run",
-    "Application.DeleteNth.executor": "Run",
-    "Application.DietPlan.executor": "Run",
-    "Application.FindXORofRange.executor": "Run",
-    "Application.FloodFillAlgo.executor": "Run",
-    "Application.GenerateAllBinaryStrings.executor": "Run",
-    "Application.GenerateParantheses.executor": "Run",
-    "Application.GenerateSubsets.executor": "Run",
-    "Application.GraphUsingAdjList.executor": "Run",
-    "Application.Graphs.executor": "Run",
-    "Application.HandsOfStraight.executor": "Run",
-    "Application.HarmoniousSubsequences.executor": "Run",
-    "Application.Heap.executor": "Run",
-    "Application.InsertInLL.executor": "Run",
-    "Application.IsPalin.executor": "Run",
-    "Application.KSortedArray.executor": "Run",
-    "Application.KedaneAlgo.executor": "Run",
-    "Application.KthLargest.executor": "Run",
-    "Application.KthSmallest.executor": "Run",
-    "Application.LCA.executor": "Run",
-    "Application.LeadersInArray.executor": "Run",
-    "Application.LeetCode1498.executor": "Run",
-    "Application.LevelOrder.executor": "Run",
-    "Application.LongestConsecutive.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MajorityElement.executor": "Run",
-    "Application.MajorityElementII.executor": "Run",
-    "Application.MajorityElementIII.executor": "Run",
-    "Application.MaxAveragewSubarray.executor": "Run",
-    "Application.MaxConsecutiveOnesII.executor": "Run",
-    "Application.MaxSubarraySum.executor": "Run",
-    "Application.MaximumNestingDepth.executor": "Run",
-    "Application.MeetingRoom.executor": "Run",
-    "Application.MergeAdjacentEqual.executor": "Run",
-    "Application.MinSizeSubarray.executor": "Run",
-    "Application.MinToMax.executor": "Run",
-    "Application.MinimumCoins.executor": "Run",
-    "Application.MissingNumber.executor": "Run",
-    "Application.NFlowers.executor": "Run",
-    "Application.NGE.executor": "Run",
-    "Application.NGEinCircular.executor": "Run",
-    "Application.NextPermutation.executor": "Run",
-    "Application.Node.executor": "Run",
-    "Application.NumMatrix.executor": "Run",
-    "Application.NumberOfBitsToFlip.executor": "Run",
-    "Application.NumberOfProvinces.executor": "Run",
-    "Application.PivotIndex.executor": "Run",
-    "Application.Postorder.executor": "Run",
-    "Application.Pow.executor": "Run",
-    "Application.PthSumII.executor": "Run",
-    "Application.Quick.executor": "Run",
-    "Application.RemoveKDigits.executor": "Run",
-    "Application.ReplaceByRight.executor": "Run",
-    "Application.ReplaceWithRank.executor": "Run",
-    "Application.Residue.executor": "Run",
-    "Application.ReverseStack.executor": "Run",
-    "Application.ReverseVowels.executor": "Run",
-    "Application.ReverseWords.executor": "Run",
-    "Application.RomanToInteger.executor": "Run",
-    "Application.RotateBy90.executor": "Run",
-    "Application.RottenOranges.executor": "Run",
-    "Application.SetZeros.executor": "Run",
-    "Application.SlidingWindowMax.executor": "Run",
-    "Application.SortByFrequency.executor": "Run",
-    "Application.SortStack.executor": "Run",
-    "Application.Spiral.executor": "Run",
-    "Application.Spiral2.executor": "Run",
-    "Application.Stock.executor": "Run",
-    "Application.StringToInteger.executor": "Run",
-    "Application.SubarraySumEqualsK.executor": "Run",
-    "Application.SumOfAllSubarray.executor": "Run",
-    "Application.SumOfMinimumSubarray.executor": "Run",
-    "Application.TaskScheduler.executor": "Run",
-    "Application.ThreeConsecutiveSequence.executor": "Run",
-    "Application.TopView.executor": "Run",
-    "Application.Transpose.executor": "Run",
-    "Application.TrappingRainwater.executor": "Run",
-    "Application.TwoSum.executor": "Run",
-    "Application.UpperLowerBound.executor": "Run",
-    "Application.ValidPalindromeII.executor": "Run",
-    "Application.ValidString.executor": "Run",
-    "Application.WidthOfBinaryTree.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/VICTUS/IdeaProjects/DSA Patterns/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.A_ContainsDuplicateII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AllPaths.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AllSubsequences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AlternatePosNeg.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AssignCookies.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AsteroidCollision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicOps.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BeautySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boats.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckKSorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckSubsequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CombinationSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainerWithMostWater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountAllSubsequencesWithSumK.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountPrime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountSubstringWithKDistinct.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountTrailingZerosInFact.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CycleDetectionInUndirectedGraph.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefuseBomb.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DegreeOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeleteInDLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeleteNth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DietPlan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindXORofRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloodFillAlgo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenerateAllBinaryStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenerateParantheses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenerateSubsets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GraphUsingAdjList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Graphs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HandsOfStraight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HarmoniousSubsequences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Heap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertInLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsPalin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KedaneAlgo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthSmallest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LCA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeadersInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode1498.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LevelOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestConsecutive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MajorityElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MajorityElementII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MajorityElementIII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxAveragewSubarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxConsecutiveOnesII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxSubarraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumNestingDepth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MeetingRoom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeAdjacentEqual.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinSizeSubarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinToMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinimumCoins.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NFlowers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NGE.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NGEinCircular.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NextPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Node.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfBitsToFlip.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfProvinces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PivotIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Postorder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PthSumII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Quick.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveKDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceByRight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceWithRank.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Residue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseVowels.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RomanToInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateBy90.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RottenOranges.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SlidingWindowMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortByFrequency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Spiral.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Spiral2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringToInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubarraySumEqualsK.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfAllSubarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfMinimumSubarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaskScheduler.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreeConsecutiveSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TopView.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Transpose.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrappingRainwater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UpperLowerBound.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidPalindromeII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WidthOfBinaryTree.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/VICTUS/IdeaProjects/DSA Patterns/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -193,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770976492173</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1774512064000</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774512064000</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
